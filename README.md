@@ -25,12 +25,12 @@ npm install
 
 3. Set up environmet variables:
 
-DB_USER=your_database_user
-DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=your_database_name
-DB_PASSWORD=your_database_password
-PORT=3000
+- DB_USER=your_database_user
+- DB_HOST=localhost
+- DB_PORT=5432
+- DB_NAME=your_database_name
+- DB_PASSWORD=your_database_password
+- PORT=3000
 
 4. Run sever:
    
